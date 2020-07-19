@@ -4,13 +4,13 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-a {
-	color: #FFB94E;
-}
-body {
-	background: black;
-	color: white;
-}
+	a {
+		color: #FFB94E;
+	}
+	body {
+		background: black;
+		color: white;
+	}
 }
 
 iframe {
@@ -22,4 +22,8 @@ iframe {
 }
 .navbar {
 	border-bottom: 1px solid;
+}
+
+pre, code {
+	font-family: "Menlo", "Consolas", monospace;
 }
