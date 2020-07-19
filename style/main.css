@@ -26,4 +26,5 @@ iframe {
 
 pre, code {
 	font-family: "Menlo", "Consolas", monospace;
+	white-space: pre-wrap;
 }
