@@ -6,6 +6,6 @@ This is an "old school" blog using only HTML, CSS, and perhaps a little javascri
 
 Hope you will find this blog to be interesting!
 
-Scan our QR code to visit on mobile!
+Scan our QR code to visit on mobile! 掃描一下二維碼，可以在手機上探索！
 
 ![qrlink.png](https://raw.githubusercontent.com/7468696e6b/yongsu/master/qrLink.png)
