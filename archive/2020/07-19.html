@@ -10,7 +10,7 @@
 sizeTheFrames();
 function sizeTheFrames() {
 	for (var i = 0; i < iframeClass.length; i++) {
-		var x = document.getElementsByTagName("iframe").item(0);
+		var x = document.getElementsByTagName("iframe").item(i);
 		x.onload = function () {
 			x.style.height = x.contentWindow.document.body.scrollHeight + 'px';
 		}
