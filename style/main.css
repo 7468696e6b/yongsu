@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, STHeiti, "Heiti SC", "Heiti TC", "Noto Sans CJK SC", "Noto Sans CJK TC", SimHei, "Microsoft YaHei", "SimSun", "SimSun-ExtB", "BabelStone Han", "BabelStone Han Plain", "HanaMinA", "HanaMinB", "Unifont", "Unifont Upper", sans-serif, serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, STHeiti, "Heiti SC", "Heiti TC", "Noto Sans CJK SC", "Noto Sans CJK TC", SimHei, "Microsoft YaHei", "SimSun", "SimSun-ExtB", "BabelStone Han", "BabelStone Han Plain", "HanaMinA", "HanaMinB", "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", "Unifont", "Unifont Upper", sans-serif, serif;
 }
 
 @media (prefers-color-scheme: dark) {
