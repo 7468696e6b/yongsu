@@ -28,14 +28,14 @@ baseurl: "/yongsu" # the subpath of your site, e.g. /blog
 url: "https://7468696e6b.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-language:
-- zh-tw
-- zh-cn
-- en
+# language:
+# - zh-tw
+# - zh-cn
+# - en
 
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima #jekyll-theme-slate
 plugins:
   - jekyll-feed
 
