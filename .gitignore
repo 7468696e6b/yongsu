@@ -4,4 +4,11 @@ db.json
 yarn.lock
 package-lock.json
 public/
-themes/typography
+themes/
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+style/main.css
