@@ -35,10 +35,10 @@ url: "https://7468696e6b.github.io/" # the base hostname & protocol for your sit
 
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima #jekyll-theme-slate
 plugins:
   - jekyll-feed
-  - jekyll-archives
+  # - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
