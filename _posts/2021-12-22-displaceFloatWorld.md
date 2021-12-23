@@ -7,6 +7,8 @@ tags: thoughts
 
 ## [木] 2021-12-22 庚子年冬月十九
 
+![Okumura Masanobu - Taking the Evening Cool by Ryōgoku Bridge](https://upload.wikimedia.org/wikipedia/commons/c/c6/Okumura_Masanobu_-_Taking_the_Evening_Cool_by_Ry%C5%8Dgoku_Bridge.png){: width="300"}
+
 The term [ukiyo (浮世)](https://en.wikipedia.org/wiki/Ukiyo), describing a kind of dreamlike or unreal feeling of the world, was used to describe the life in the late Edo period in Japan.
 <!-- 曾經有「浮世」所詞，指一種浮沉世界、飄揚如夢，話說是描寫著日本江戶時代晚年一種時代文化及史觀。 --><!-- 大唐盛年時， -->
 
