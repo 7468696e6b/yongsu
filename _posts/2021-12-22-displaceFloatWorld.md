@@ -1,0 +1,12 @@
+---
+title: Displacement and the floating-world phenomenom, the surrealness of reality
+date: 2021-12-22 20:17:00 -0500
+tags: thoughts
+---
+
+## [木] 2021-12-22 庚子年冬月十九
+
+The term ukiyo (浮世), describing a kind of dreamlike or unreal feeling of the world, was used to describe the life in the late Edo period in Japan.
+<!-- 曾經有「浮世」所詞，指一種浮沉世界、飄揚如夢，話說是描寫著日本江戶時代晚年一種時代文化及史觀。 --><!-- 大唐盛年時， -->
+
+It's not hard to feel that we are in a similar type of age, a type of dreamlike age, in which reality has become surreal. A new type of 'lost generation' has become forged due to the social isolation forced by disease-control measures caused by the pandemic, where the Internet has replaced interpersonal communication face-to-face as a primary form of communication. But an online form of self is a type of untethered self in that for example, on a platform such as Discord or Twitter, you can create a entirely artificial or constructed or ideal self or persona... taking advantage of anonymity to present oneself with a parallel identity based on certain interests or perhaps novelty, etc. The sense here however is that there is increasingly a sense of loss in that this online identity feels more authentic as the consistly accessible online community provides a sense of belonging for seemingly every sort of niche interest; meanwhile, this persona must be reconciled with the 'irl' "in real life" actual perception of self relative to those interacted with face-to-face in daily life. The floating phenomenom herein consists of the displacement of the grounded or 'irl' identity by the persona identity, perhaps because no matter how niche an interest is, it can for better or worse find a crowd of likeminded peers online. 
